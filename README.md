@@ -4,10 +4,8 @@
 This repository contains the project files for the Amazon Sales Analysis, including cleaned data, visualizations, and methodology details.
 
 ## Contents
-- `data/Cleaned_Amazon_Sales_data.csv`: Cleaned dataset used for analysis.
-- `presentation/Project 1 - Amazon Sales data report.pptx`: PowerPoint presentation of the project.
-- `supplementary-documents/Supplementary_Document_2_Tableau_Dashboard_Screenshots.pdf`: Screenshots of Tableau dashboards.
-- `supplementary-documents/Supplementary_Document_3_Methodology_Details.pdf`: Detailed methodology and data preparation steps.
+- [Cleaned_Amazon_Sales_data.csv](data/Cleaned_Amazon_Sales_data.csv): Cleaned dataset used for analysis.
+- [Project 1 - Amazon Sales data report.pptx](presentation/Project 1 - Amazon Sales data report.pptx): PowerPoint presentation of the project.
 
 ## Project Details
 ### Data Collection
